@@ -1,0 +1,220 @@
+[
+  {
+    "store": "www.allbirds.com",
+    "storeName": "Allbirds",
+    "productId": 7119956050000,
+    "title": "Digital Gift Card",
+    "url": "https://www.allbirds.com/products/digital-gift-cards",
+    "handle": "digital-gift-cards",
+    "vendor": "Allbirds",
+    "productType": "Gift Cards",
+    "tags": [
+      "allbirds::carbon-score => undefined",
+      "allbirds::cfId => color-digital-gift-card",
+      "allbirds::complete => true",
+      "allbirds::edition => nA",
+      "allbirds::gender => unisex",
+      "allbirds::hue => n a",
+      "allbirds::master => digital-gift-cards",
+      "allbirds::material => N/A",
+      "allbirds::price-tier => msrp",
+      "allbirds::silhouette => N/A",
+      "category:Gift Cards",
+      "FINAL SALE"
+    ],
+    "collection": null,
+    "currency": "USD",
+    "createdAt": "2024-10-28T08:00:39-07:00",
+    "publishedAt": "2026-11-18T16:00:39-08:00",
+    "updatedAt": "2026-11-19T12:31:33-08:00",
+    "options": [
+      {
+        "name": "Size",
+        "values": [
+          "$15",
+          "$25",
+          "$50",
+          "$75",
+          "$100",
+          "$105",
+          "$110",
+          "$150",
+          "$200",
+          "$250",
+          "$500"
+        ]
+      }
+    ],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1104/4168/files/Q424_Gifting_Site_PDP_GiftCard_1600x1600_3cbf0651-7406-4a93-910a-551a042bfe4f.png?v=1730312896",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1104/4168/files/Q424_Gifting_Site_PDP_GiftCard_1600x1600_3cbf0651-7406-4a93-910a-551a042bfe4f.png?v=1730312896",
+      "https://cdn.shopify.com/s/files/1/1104/4168/files/Q424_Gifting_Site_PDP_GiftCard_Lifestyle_1600x1600_becb5421-996b-44ec-94a7-246a45561959.png?v=1730312896"
+    ],
+    "price": 15,
+    "maxPrice": 500,
+    "compareAtPrice": null,
+    "onSale": false,
+    "discountPercent": null,
+    "available": true,
+    "variantCount": 11,
+    "availableVariants": 11,
+    "skus": [
+      "GIFTDGT015",
+      "GIFTDGT025",
+      "GIFTDGT050",
+      "GIFTDGT075",
+      "GIFTDGT100",
+      "GIFTDGT105",
+      "GIFTDGT110",
+      "GIFTDGT150",
+      "GIFTDGT200",
+      "GIFTDGT250",
+      "GIFTDGT500"
+    ]
+  },
+  {
+    "store": "www.allbirds.com",
+    "storeName": "Allbirds",
+    "productId": 7292464824400,
+    "title": "Women's Wool Cruiser - Port (Port Sole)",
+    "url": "https://www.allbirds.com/products/womens-wool-cruiser-port-port-sole",
+    "handle": "womens-wool-cruiser-port-port-sole",
+    "vendor": "Allbirds",
+    "productType": null,
+    "tags": [
+      "11/3/26 DROP",
+      "allbirds::cfId => color-f67ac276729fd74d9edd3ad836f79a7e",
+      "allbirds::hue => red",
+      "allbirds::master => womens-wool-cruiser",
+      "DNAM BRANDS",
+      "Onsite @ WC 5.26.26"
+    ],
+    "collection": null,
+    "currency": "USD",
+    "createdAt": "2026-02-04T17:37:18-08:00",
+    "publishedAt": "2026-11-04T15:48:27-08:00",
+    "updatedAt": "2026-11-19T12:31:33-08:00",
+    "options": [
+      {
+        "name": "Size",
+        "values": [
+          "5",
+          "5.5",
+          "6",
+          "6.5",
+          "7",
+          "7.5",
+          "8",
+          "8.5",
+          "9",
+          "9.5",
+          "10",
+          "10.5",
+          "11"
+        ]
+      }
+    ],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12858W090-PORT_SIDE_TRANSPARENT.png?v=1793836076",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1104/4168/files/A12858W090-PORT_SIDE_TRANSPARENT.png?v=1793836076",
+      "https://cdn.shopify.com/s/files/1/1104/4168/files/A12858W090-PORT_HEEL_TRANSPARENT.png?v=1793836075",
+      "https://cdn.shopify.com/s/files/1/1104/4168/files/A12858W090-PORT_TOP_TRANSPARENT.png?v=1793836076"
+    ],
+    "price": 120,
+    "maxPrice": 120,
+    "compareAtPrice": null,
+    "onSale": false,
+    "discountPercent": null,
+    "available": true,
+    "variantCount": 13,
+    "availableVariants": 3,
+    "skus": [
+      "A12858W050",
+      "A12858W055",
+      "A12858W060",
+      "A12858W065",
+      "A12858W070",
+      "A12858W075",
+      "A12858W080",
+      "A12858W085",
+      "A12858W090",
+      "A12858W095",
+      "A12858W100",
+      "A12858W105",
+      "A12858W110"
+    ]
+  },
+  {
+    "store": "www.allbirds.com",
+    "storeName": "Allbirds",
+    "productId": 7215082405968,
+    "title": "Women's Wool Runner NZ - Shadow Blue (Natural White Sole)",
+    "url": "https://www.allbirds.com/products/womens-wool-runner-nz-shadow-blue-natural-white-sole",
+    "handle": "womens-wool-runner-nz-shadow-blue-natural-white-sole",
+    "vendor": "Allbirds",
+    "productType": null,
+    "tags": [
+      "11/3/26 DROP",
+      "allbirds::cfId => color-edf97af257c1e36d936a28375fac5f9c",
+      "allbirds::hue => blue",
+      "allbirds::master => womens-wool-runner-nz",
+      "DNAM BRANDS",
+      "Onsite @ WC 5.26.26",
+      "TCNU5311340 (PL 553883057178)"
+    ],
+    "collection": null,
+    "currency": "USD",
+    "createdAt": "2025-08-27T09:16:36-07:00",
+    "publishedAt": "2026-11-04T15:32:48-08:00",
+    "updatedAt": "2026-11-19T12:31:33-08:00",
+    "options": [
+      {
+        "name": "Size",
+        "values": [
+          "5",
+          "5.5",
+          "6",
+          "6.5",
+          "7",
+          "7.5",
+          "8",
+          "8.5",
+          "9",
+          "9.5",
+          "10",
+          "10.5",
+          "11"
+        ]
+      }
+    ],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12799W-SHADOWBLUE_SIDE_TRANSPARENT.png?v=1793835066",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1104/4168/files/A12799W-SHADOWBLUE_SIDE_TRANSPARENT.png?v=1793835066",
+      "https://cdn.shopify.com/s/files/1/1104/4168/files/A12799W-SHADOWBLUE_HEEL_TRANSPARENT.png?v=1793835066",
+      "https://cdn.shopify.com/s/files/1/1104/4168/files/A12799W-SHADOWBLUE_TOP_TRANSPARENT.png?v=1793835066"
+    ],
+    "price": 120,
+    "maxPrice": 120,
+    "compareAtPrice": null,
+    "onSale": false,
+    "discountPercent": null,
+    "available": true,
+    "variantCount": 13,
+    "availableVariants": 12,
+    "skus": [
+      "A12799W050",
+      "A12799W055",
+      "A12799W060",
+      "A12799W065",
+      "A12799W070",
+      "A12799W075",
+      "A12799W080",
+      "A12799W085",
+      "A12799W090",
+      "A12799W095",
+      "A12799W100",
+      "A12799W105",
+      "A12799W110"
+    ]
+  }
+]
